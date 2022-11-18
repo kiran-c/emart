@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\exceptions\BusinessException.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\repository\ProductRepository.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\serializer\DataSerializer.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\Configuration\DBConfiguration.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\dto\ProductDTO.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\dto\CategoryDTO.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\service\ProductService.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\entity\CategoryEntity.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\service\impl\ProductServiceImpl.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\converter\ProductConverter.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\client\ProductMain.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\entity\ProductEntity.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\repository\impl\ProductRepositoryImpl.java
+C:\Users\Admin\Documents\workspace-spring-tool-suite\emart-mvn\src\main\java\com\emart\constants\ApplicationConstants.java
